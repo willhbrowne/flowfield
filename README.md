@@ -25,10 +25,10 @@
   //same thing with y
   //give each particle random direction based on an angle on the unit circle
 
-#display function
+# display function
   //fill circle and display circle at x and y position
 
-#update functoin
+# update functoin
   void update(){
    //check if particle is still on screen
    //change xeffect based on mouse position
