@@ -9,8 +9,8 @@
 
   attributes:
   
-  1.x position
-  2.y position
+  1.x position  
+  2.y position  
   3.speed
   4.direction
   5.color
